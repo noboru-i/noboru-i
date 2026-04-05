@@ -6,5 +6,3 @@
 
 <a href="https://twitter.com/noboru_i"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
 <a href="https://qiita.com/noboru_i"><img src="https://img.shields.io/badge/qiita-%2355C500.svg?&style=for-the-badge&logo=qiita&logoColor=white"></a>
-
-[![noboru-i's github stats](https://github-readme-stats.vercel.app/api?username=noboru-i&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
